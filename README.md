@@ -8,7 +8,7 @@
 
 A systematic approach for safely identifying and removing orphaned EBS volumes in production AWS environments, balancing cost optimization with operational safety.
 
-This methodology was developed and validated through a production cleanup campaign across a large-scale EKS environment (200+ namespaces, 1,289 EBS volumes analyzed).
+This methodology was developed and validated through a production cleanup campaign across a large-scale EKS environment (1,000+ namespaces, 1,289 EBS volumes analyzed).
 
 ---
 
