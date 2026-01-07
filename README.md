@@ -1,8 +1,6 @@
 # AWS EBS Volume Optimization Methodology
 
 > **Note:** This is a generalized, sanitized framework based on real production work that delivered £108K in annual AWS savings at UK Government scale. It reflects lessons learned and refinements made after execution, not necessarily the exact process used during the original campaign.
->
-> **Original work documented here:** https://github.com/ministryofjustice/cloud-platform/issues/7662
 
 ---
 
@@ -228,9 +226,6 @@ Independent verification meant the methodology could be reused by others (proven
 ---
 
 ## Resources
-
-**Original production work:**
-https://github.com/ministryofjustice/cloud-platform/issues/7662
 
 **AWS EBS Pricing:**
 https://aws.amazon.com/ebs/pricing/
